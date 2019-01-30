@@ -1,0 +1,114 @@
+# Comments start with a '#'.
+# Empty lines are ignored.
+
+#    = Nitrux OS CORE =
+
+nitrux-minimal
+nitrux-standard
+
+#    = Hardware and Architecture Support =
+
+broadcom-sta-dkms
+#    bcmwl-kernel-source -- Results in problems during Travis build, fails to be configured.
+dkms
+exfat-fuse
+exfat-utils
+#    firmware-b43-installer -- Use if requested.
+go-mtpfs
+
+#    = Printers =
+
+hplip
+hplip-data
+openprinting-ppds
+print-manager
+printer-driver-foo2zjs
+printer-driver-foo2zjs-common
+printer-driver-m2300w 
+printer-driver-c2esp
+printer-driver-min12xxw
+printer-driver-sag-gdi
+printer-driver-cups-pdf
+printer-driver-gutenprint
+printer-driver-hpcups
+printer-driver-hpijs
+printer-driver-pnm2ppa
+printer-driver-splix
+printer-driver-brlaser
+printer-driver-postscript-hp
+printer-driver-ptouch
+printer-driver-pxljr
+gutenprint-locales
+printer-driver-c2050
+printer-driver-cjet
+printer-driver-dymo 
+printer-driver-escpr
+printer-driver-fujixerox
+printer-driver-indexbraille
+printer-driver-oki
+
+#    = XORG =
+
+x11-session-utils
+xinit
+xserver-xorg-core
+xserver-xorg-input-aiptek
+xserver-xorg-input-elographics 
+xserver-xorg-input-wacom
+xserver-xorg-input-libinput
+xserver-xorg-input-joystick
+xserver-xorg-input-kbd
+xserver-xorg-input-mouse
+xserver-xorg-input-evdev
+xserver-xorg-input-mtrack
+xserver-xorg-input-mutouch
+xserver-xorg-input-synaptics
+xserver-xorg-input-void
+xserver-xorg-video-amdgpu
+#    xserver-xorg-video-fbdev -- Servidor X de X.Org -- controlador de vídeo fbdev.
+xserver-xorg-video-intel
+xserver-xorg-video-qxl
+xserver-xorg-video-radeon
+#    xserver-xorg-video-nouveau -- FOSS Nvidia Driver.
+xserver-xorg-video-nvidia-415
+#    xserver-xorg-video-vesa -- X.Org X server -- VESA display driver.
+xserver-xorg-input-void
+xserver-xorg-video-vmware
+xserver-xorg-input-xwiimote
+
+#    = Nvidia supporting bits =
+
+libnvidia-cfg1-415
+libnvidia-common-415
+libnvidia-compute-415
+libnvidia-decode-415
+libnvidia-encode-415
+libnvidia-fbc1-415
+libnvidia-gl-415
+libnvidia-ifr1-415
+libxnvctrl0
+nvidia-dkms-415
+nvidia-kernel-common-415
+nvidia-kernel-source-415
+nvidia-utils-415
+
+#    = AMD and Radeon supporting bits =
+
+libdrm-amdgpu1
+libdrm-radeon1
+
+#    = Intel supporting bits =
+
+i965-va-driver-shaders
+libdrm-intel1
+libva-drm2
+libva-glx2
+libva-x11-2
+libva2
+thunderbolt-tools
+
+#    = Mesa supporting bits =
+
+mesa-va-drivers
+mesa-vdpau-drivers
+mesa-vulkan-drivers
