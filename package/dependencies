@@ -78,19 +78,19 @@ xserver-xorg-input-xwiimote
 
 #    = Nvidia supporting bits =
 
-libnvidia-cfg1-415
-libnvidia-common-415
-libnvidia-compute-415
-libnvidia-decode-415
-libnvidia-encode-415
-libnvidia-fbc1-415
-libnvidia-gl-415
-libnvidia-ifr1-415
+libnvidia-cfg1-418
+libnvidia-common-418
+libnvidia-compute-418
+libnvidia-decode-418
+libnvidia-encode-418
+libnvidia-fbc1-418
+libnvidia-gl-418
+libnvidia-ifr1-418
 libxnvctrl0
-nvidia-dkms-415
-nvidia-kernel-common-415
-nvidia-kernel-source-415
-nvidia-utils-415
+nvidia-dkms-418
+nvidia-kernel-common-418
+nvidia-kernel-source-418
+nvidia-utils-418
 
 #    = AMD and Radeon supporting bits =
 
