@@ -70,7 +70,7 @@ xserver-xorg-video-intel
 xserver-xorg-video-qxl
 xserver-xorg-video-radeon
 #    xserver-xorg-video-nouveau -- FOSS Nvidia Driver.
-xserver-xorg-video-nvidia-415
+xserver-xorg-video-nvidia-418
 #    xserver-xorg-video-vesa -- X.Org X server -- VESA display driver.
 xserver-xorg-input-void
 xserver-xorg-video-vmware
