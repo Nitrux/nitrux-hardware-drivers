@@ -90,6 +90,7 @@ libxnvctrl0
 nvidia-dkms-418
 nvidia-kernel-common-418
 nvidia-kernel-source-418
+nvidia-prime
 nvidia-utils-418
 
 #    = AMD and Radeon supporting bits =
