@@ -100,7 +100,7 @@ libdrm-radeon1
 
 #    = Intel supporting bits =
 
-i965-va-driver-shaders
+i965-va-driver
 libdrm-intel1
 libva-drm2
 libva-glx2
