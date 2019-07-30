@@ -62,7 +62,6 @@ xserver-xorg-input-evdev
 xserver-xorg-input-mtrack
 xserver-xorg-input-mutouch
 xserver-xorg-input-synaptics
-xserver-xorg-input-void
 xserver-xorg-video-amdgpu
 #    xserver-xorg-video-fbdev -- Servidor X de X.Org -- controlador de vídeo fbdev.
 xserver-xorg-video-intel
