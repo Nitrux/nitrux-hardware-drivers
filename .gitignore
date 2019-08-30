@@ -5,3 +5,4 @@
 /.project
 *.db
 *.qmlc
+.DS_Store
