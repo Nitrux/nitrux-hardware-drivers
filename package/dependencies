@@ -68,7 +68,7 @@ xserver-xorg-video-intel
 xserver-xorg-video-qxl
 xserver-xorg-video-radeon
 #    xserver-xorg-video-nouveau -- FOSS Nvidia Driver.
-xserver-xorg-video-nvidia-430
+xserver-xorg-video-nvidia-435
 #    xserver-xorg-video-vesa -- X.Org X server -- VESA display driver.
 xserver-xorg-input-void
 xserver-xorg-video-vmware
@@ -76,20 +76,20 @@ xserver-xorg-input-xwiimote
 
 #    = Nvidia supporting bits =
 
-libnvidia-cfg1-430
-libnvidia-common-430
-libnvidia-compute-430
-libnvidia-decode-430
-libnvidia-encode-430
-libnvidia-fbc1-430
-libnvidia-gl-430
-libnvidia-ifr1-430
+libnvidia-cfg1-435
+libnvidia-common-435
+libnvidia-compute-435
+libnvidia-decode-435
+libnvidia-encode-435
+libnvidia-fbc1-435
+libnvidia-gl-435
+libnvidia-ifr1-435
 libxnvctrl0
-nvidia-dkms-430
-nvidia-kernel-common-430
-nvidia-kernel-source-430
+nvidia-dkms-435
+nvidia-kernel-common-435
+nvidia-kernel-source-435
 nvidia-prime
-nvidia-utils-430
+nvidia-utils-435
 
 #    = AMD and Radeon supporting bits =
 
