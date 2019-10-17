@@ -108,6 +108,8 @@ thunderbolt-tools
 
 #    = Mesa supporting bits =
 
+libvdpau-va-gl1
 mesa-va-drivers
 mesa-vdpau-drivers
 mesa-vulkan-drivers
+vdpau-va-driver
