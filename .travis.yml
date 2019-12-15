@@ -16,6 +16,7 @@ branches:
   only:
   - master
   - development
+  - legacy branch
 deploy:
 - provider: script
   script: "./nomad-repository-util.sh upload nitrux-hardware-drivers package/*.deb"
