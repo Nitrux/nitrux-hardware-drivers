@@ -34,7 +34,7 @@ printer-driver-hpijs
 printer-driver-pnm2ppa
 printer-driver-splix
 printer-driver-brlaser
-printer-driver-postscript-hp
+#   printer-driver-postscript-hp
 printer-driver-ptouch
 printer-driver-pxljr
 gutenprint-locales
