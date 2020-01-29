@@ -18,8 +18,8 @@ go-mtpfs
 
 #    = Printers =
 
-hplip
-hplip-data
+#   hplip
+#   hplip-data
 openprinting-ppds
 printer-driver-foo2zjs
 printer-driver-foo2zjs-common

@@ -14,7 +14,7 @@ Section: misc
 Priority: optional
 Homepage: https://nxos.org
 Package: nitrux-hardware-drivers-legacy
-Version: 1.0.8.13-${GIT_COMMIT}
+Version: 1.0.8.14-${GIT_COMMIT}
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Depends: $DEPENDS
 Architecture: amd64
