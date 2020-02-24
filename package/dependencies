@@ -18,8 +18,8 @@ go-mtpfs
 
 #    = Printers =
 
-hplip
-hplip-data
+#   hplip
+#   hplip-data
 openprinting-ppds
 printer-driver-foo2zjs
 printer-driver-foo2zjs-common
@@ -29,12 +29,12 @@ printer-driver-min12xxw
 printer-driver-sag-gdi
 printer-driver-cups-pdf
 printer-driver-gutenprint
-printer-driver-hpcups
-printer-driver-hpijs
+#   printer-driver-hpcups
+#   printer-driver-hpijs
 printer-driver-pnm2ppa
 printer-driver-splix
 printer-driver-brlaser
-printer-driver-postscript-hp
+#   printer-driver-postscript-hp
 printer-driver-ptouch
 printer-driver-pxljr
 gutenprint-locales
