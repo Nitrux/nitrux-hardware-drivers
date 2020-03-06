@@ -67,7 +67,7 @@ xserver-xorg-video-amdgpu
 xserver-xorg-video-intel
 xserver-xorg-video-qxl
 xserver-xorg-video-radeon
-#    xserver-xorg-video-nouveau -- FOSS Nvidia Driver.
+xserver-xorg-video-nouveau
 xserver-xorg-video-nvidia-440
 #    xserver-xorg-video-vesa -- X.Org X server -- VESA display driver.
 xserver-xorg-input-void
