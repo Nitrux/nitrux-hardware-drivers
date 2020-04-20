@@ -62,4 +62,4 @@ libvulkan1
 mesa-va-drivers
 mesa-vdpau-drivers
 mesa-vulkan-drivers
-vdpau-va-driver
+#   vdpau-va-driver
