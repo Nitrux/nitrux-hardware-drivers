@@ -23,7 +23,7 @@ go-mtpfs
 openprinting-ppds
 printer-driver-foo2zjs
 printer-driver-foo2zjs-common
-printer-driver-m2300w 
+printer-driver-m2300w
 printer-driver-c2esp
 printer-driver-min12xxw
 printer-driver-sag-gdi
@@ -40,7 +40,7 @@ printer-driver-pxljr
 gutenprint-locales
 printer-driver-c2050
 printer-driver-cjet
-printer-driver-dymo 
+printer-driver-dymo
 printer-driver-escpr
 printer-driver-fujixerox
 printer-driver-indexbraille
@@ -52,7 +52,7 @@ x11-session-utils
 xinit
 xserver-xorg-core
 xserver-xorg-input-aiptek
-xserver-xorg-input-elographics 
+xserver-xorg-input-elographics
 xserver-xorg-input-wacom
 xserver-xorg-input-libinput
 xserver-xorg-input-joystick
