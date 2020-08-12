@@ -6,7 +6,7 @@ script:
 branches:
   only:
     - master
-    - development
+    - legacy
 
 deploy:
   - provider: script
@@ -17,3 +17,4 @@ deploy:
 
 notifications:
   email: false
+  
