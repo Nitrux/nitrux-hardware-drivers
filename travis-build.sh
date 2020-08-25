@@ -14,6 +14,7 @@ git_commit=$(git rev-parse --short HEAD)
 	"Version: 1.0.8.18-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
+	"Conflicts: nitrux-hardware-drivers" \
 	"Architecture: amd64" \
 	"Description: Hardware drivers metapackage for Nitrux."
 
