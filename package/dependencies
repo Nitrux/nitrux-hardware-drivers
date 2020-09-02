@@ -39,7 +39,7 @@ printer-driver-fujixerox
 printer-driver-indexbraille
 printer-driver-oki
 
-#    = XORG =
+#    = XORG Drivers =
 
 xserver-xorg-input-aiptek
 xserver-xorg-input-elographics
