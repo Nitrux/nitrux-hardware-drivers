@@ -14,31 +14,6 @@ exfat-fuse
 exfat-utils
 go-mtpfs
 
-#    = Printers =
-
-openprinting-ppds
-printer-driver-foo2zjs
-printer-driver-foo2zjs-common
-printer-driver-m2300w
-printer-driver-c2esp
-printer-driver-min12xxw
-printer-driver-sag-gdi
-printer-driver-cups-pdf
-printer-driver-gutenprint
-printer-driver-pnm2ppa
-printer-driver-splix
-printer-driver-brlaser
-printer-driver-ptouch
-printer-driver-pxljr
-gutenprint-locales
-printer-driver-c2050
-printer-driver-cjet
-printer-driver-dymo
-printer-driver-escpr
-printer-driver-fujixerox
-printer-driver-indexbraille
-printer-driver-oki
-
 #    = XORG Drivers =
 
 xserver-xorg-input-aiptek
