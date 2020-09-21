@@ -35,27 +35,12 @@ xserver-xorg-video-amdgpu
 xserver-xorg-video-intel
 xserver-xorg-video-qxl
 xserver-xorg-video-radeon
-xserver-xorg-video-nvidia-450
 xserver-xorg-input-void
 xserver-xorg-video-vmware
 xserver-xorg-input-xwiimote
 
 #    = Nvidia supporting bits =
 
-libnvidia-cfg1-450
-libnvidia-common-450
-libnvidia-compute-450
-libnvidia-decode-450
-libnvidia-encode-450
-libnvidia-fbc1-450
-libnvidia-gl-450
-libnvidia-ifr1-450
-libxnvctrl0
-nvidia-dkms-450
-nvidia-kernel-common-450
-nvidia-kernel-source-450
-nvidia-prime
-nvidia-utils-450
 
 #    = AMD and Radeon supporting bits =
 
