@@ -62,6 +62,7 @@ xserver-xorg-input-xwiimote
 
 #    = Nvidia supporting bits =
 
+
 #    = AMD and Radeon supporting bits =
 
 libdrm-amdgpu1
