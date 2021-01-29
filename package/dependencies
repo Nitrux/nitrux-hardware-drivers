@@ -16,14 +16,6 @@ dkms
 
 #    = XORG Drivers =
 
-xserver-xorg-input-libinput
-xserver-xorg-input-kbd
-xserver-xorg-input-mouse
-xserver-xorg-input-evdev
-xserver-xorg-input-synaptics
-xserver-xorg-video-amdgpu
-xserver-xorg-video-intel
-xserver-xorg-video-radeon
 
 #    = Nvidia supporting bits =
 
