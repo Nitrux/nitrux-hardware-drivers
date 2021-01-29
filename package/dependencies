@@ -10,12 +10,11 @@ nitrux-standard
 
 broadcom-sta-dkms
 dkms
-exfat-fuse
-exfat-utils
 
 #    = Printers =
 
-#    = XORG =
+
+#    = XORG Drivers =
 
 xserver-xorg-input-libinput
 xserver-xorg-input-kbd
@@ -24,28 +23,10 @@ xserver-xorg-input-evdev
 xserver-xorg-input-synaptics
 xserver-xorg-video-amdgpu
 xserver-xorg-video-intel
-xserver-xorg-video-qxl
 xserver-xorg-video-radeon
-xserver-xorg-video-nvidia-440
-xserver-xorg-input-void
-xserver-xorg-video-vmware
 
 #    = Nvidia supporting bits =
 
-libnvidia-cfg1-440
-libnvidia-common-440
-libnvidia-compute-440
-libnvidia-decode-440
-libnvidia-encode-440
-libnvidia-fbc1-440
-libnvidia-gl-440
-libnvidia-ifr1-440
-libxnvctrl0
-nvidia-dkms-440
-nvidia-kernel-common-440
-nvidia-kernel-source-440
-nvidia-prime
-nvidia-utils-440
 
 #    = AMD and Radeon supporting bits =
 
