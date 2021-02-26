@@ -10,7 +10,7 @@ git_commit=$(git rev-parse --short HEAD)
 	"Section: misc" \
 	"Priority: optional" \
 	"Homepage: https://nxos.org" \
-	"Package: nitrux-hardware-drivers-minimal-legacy" \
+	"Package: nitrux-hardware-drivers-legacy-minimal" \
 	"Version: 0.0.1-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
