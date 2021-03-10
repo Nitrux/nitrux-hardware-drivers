@@ -3,8 +3,8 @@
 
 #    = Nitrux OS CORE =
 
-nitrux-minimal
-nitrux-standard
+nitrux-minimal-arm64
+nitrux-standard-arm64
 
 #    = Hardware and Architecture Support =
 
@@ -19,23 +19,15 @@ go-mtpfs
 
 #    = XORG Drivers =
 
-xserver-xorg-input-aiptek
-xserver-xorg-input-elographics
-xserver-xorg-input-wacom
-xserver-xorg-input-libinput
+xserver-xorg-input-evdev
 xserver-xorg-input-joystick
 xserver-xorg-input-kbd
+xserver-xorg-input-libinput
 xserver-xorg-input-mouse
-xserver-xorg-input-evdev
 xserver-xorg-input-mtrack
-xserver-xorg-input-mutouch
+xserver-xorg-input-multitouch
 xserver-xorg-input-synaptics
-xserver-xorg-video-amdgpu
-xserver-xorg-video-intel
-xserver-xorg-video-qxl
-xserver-xorg-video-radeon
-xserver-xorg-input-void
-xserver-xorg-video-vmware
+xserver-xorg-input-wacom
 xserver-xorg-input-xwiimote
 
 #    = Nvidia supporting bits =
@@ -48,8 +40,6 @@ libdrm-radeon1
 
 #    = Intel supporting bits =
 
-i965-va-driver
-libdrm-intel1
 libva-drm2
 libva-glx2
 libva-x11-2
