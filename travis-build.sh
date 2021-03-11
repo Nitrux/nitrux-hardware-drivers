@@ -11,9 +11,10 @@ git_commit=$(git rev-parse --short HEAD)
 	"Priority: optional" \
 	"Homepage: https://nxos.org" \
 	"Package: nitrux-hardware-drivers-arm64" \
-	"Version: 0.0.1-$git_commit" \
+	"Version: 0.0.2-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
+	"Conflicts: nitrux-hardware-drivers, nitrux-hardware-legacy, nitrux-hardware-drivers-minimal, nitrux-hardware-drivers-legacy-minimal " \
 	"Architecture: all" \
 	"Description: Hardware drivers metapackage for Nitrux."
 
