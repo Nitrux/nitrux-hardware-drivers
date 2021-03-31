@@ -29,7 +29,6 @@ xserver-xorg-input-mouse
 xserver-xorg-input-mtrack
 xserver-xorg-input-mutouch
 xserver-xorg-input-synaptics
-xserver-xorg-input-void
 xserver-xorg-input-wacom
 xserver-xorg-input-xwiimote
 xserver-xorg-video-amdgpu
