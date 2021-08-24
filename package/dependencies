@@ -11,7 +11,7 @@ nitrux-standard-legacy
 broadcom-sta-dkms
 dkms
 exfat-fuse
-exfat-utils
+exfatprogs
 go-mtpfs
 
 #    = Printers =
