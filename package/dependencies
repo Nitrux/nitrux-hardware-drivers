@@ -12,6 +12,7 @@ broadcom-sta-dkms
 dkms
 exfat-fuse
 exfat-utils
+f2fs-tools
 go-mtpfs
 
 #    = Printers =
