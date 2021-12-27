@@ -64,6 +64,7 @@ xserver-xorg-input-xwiimote
 
 #    = AMD and Radeon supporting bits =
 
+amdvlk
 libdrm-amdgpu1
 libdrm-radeon1
 
