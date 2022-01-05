@@ -14,6 +14,7 @@ exfat-fuse
 exfatprogs
 f2fs-tools
 go-mtpfs
+thunderbolt-tools
 
 #    = Printers =
 
@@ -76,7 +77,6 @@ libva-drm2
 libva-glx2
 libva-x11-2
 libva2
-thunderbolt-tools
 
 #    = Mesa supporting bits =
 
