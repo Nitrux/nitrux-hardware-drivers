@@ -11,9 +11,10 @@ nitrux-standard
 broadcom-sta-dkms
 dkms
 exfat-fuse
-exfat-utils
+exfatprogs
 f2fs-tools
 go-mtpfs
+thunderbolt-tools
 
 #    = Printers =
 
@@ -43,6 +44,7 @@ xserver-xorg-video-vmware
 
 #    = AMD and Radeon supporting bits =
 
+amdvlk
 libdrm-amdgpu1
 libdrm-radeon1
 
@@ -54,7 +56,6 @@ libva-drm2
 libva-glx2
 libva-x11-2
 libva2
-thunderbolt-tools
 
 #    = Mesa supporting bits =
 
