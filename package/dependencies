@@ -13,6 +13,7 @@ dkms
 exfat-fuse
 exfatprogs
 f2fs-tools
+ntfs-3g
 go-mtpfs
 linux-firmware
 thunderbolt-tools
