@@ -46,6 +46,7 @@ xserver-xorg-video-vmware
 
 #    = AMD and Radeon supporting bits =
 
+amdgpu-firmware-extra
 amdvlk
 libdrm-amdgpu1
 libdrm-radeon1
