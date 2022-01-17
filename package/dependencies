@@ -47,7 +47,6 @@ printer-driver-oki
 xserver-xorg-input-aiptek
 xserver-xorg-input-elographics
 xserver-xorg-input-evdev
-xserver-xorg-input-joystick
 xserver-xorg-input-kbd
 xserver-xorg-input-libinput
 xserver-xorg-input-mouse
