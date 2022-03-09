@@ -13,6 +13,7 @@ dkms
 exfat-fuse
 exfatprogs
 f2fs-tools
+firmware-sof-signed
 go-mtpfs
 ifuse
 libimobiledevice-utils
