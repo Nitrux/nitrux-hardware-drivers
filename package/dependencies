@@ -14,9 +14,12 @@ exfat-fuse
 exfatprogs
 f2fs-tools
 firmware-b43-installer
-ntfs-3g
 go-mtpfs
+ifuse
+libimobiledevice-utils
+libimobiledevice6
 linux-firmware
+ntfs-3g
 steam-devices
 thunderbolt-tools
 
