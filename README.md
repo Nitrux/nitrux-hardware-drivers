@@ -1,6 +1,6 @@
-# Nitrux Hardware Drivers Meta package [![Build Status](https://travis-ci.org/Nitrux/nitrux-hardware-drivers.svg?branch=master)](https://travis-ci.org/Nitrux/nitrux-hardware-drivers)
+# Nitrux Hardware Drivers Meta package
 
-This repository contains the source to create the `nitrux-hardware-drivers` metapackage.
+This repository contains the source to create the `nitrux-hardware-drivers-legacy` metapackage.
 
 # Issues
 If you find problems with the contents of this repository please create an issue.
