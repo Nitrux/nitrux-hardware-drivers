@@ -8,45 +8,28 @@ nitrux-standard
 
 #    = Hardware and Architecture Support =
 
-broadcom-sta-common
-broadcom-sta-dkms
-broadcom-sta-source
 dkms
 exfat-fuse
 exfatprogs
 f2fs-tools
-firmware-b43-installer
-firmware-brcm80211
-firmware-sof-signed
 go-mtpfs
 ifuse
 libimobiledevice-utils
 libimobiledevice6
-linux-firmware
 ntfs-3g
-steam-devices-nitrux
-thunderbolt-tools
 
 #    = Printers =
 
 
 #    = XORG Drivers =
 
-xserver-xorg-input-aiptek
-xserver-xorg-input-elographics
 xserver-xorg-input-evdev
 xserver-xorg-input-kbd
 xserver-xorg-input-libinput
 xserver-xorg-input-mouse
-xserver-xorg-input-mtrack
-xserver-xorg-input-mutouch
-xserver-xorg-input-synaptics
-xserver-xorg-input-wacom
-xserver-xorg-input-xwiimote
 xserver-xorg-video-amdgpu
 xserver-xorg-video-intel
 xserver-xorg-video-radeon
-xserver-xorg-video-vmware
 
 #    = Nvidia supporting bits =
 
