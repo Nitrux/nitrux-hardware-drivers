@@ -16,6 +16,7 @@ go-mtpfs
 ifuse
 libimobiledevice-utils
 libimobiledevice6
+linux-firmware
 ntfs-3g
 
 #    = Printers =
@@ -27,7 +28,12 @@ xserver-xorg-input-evdev
 xserver-xorg-input-kbd
 xserver-xorg-input-libinput
 xserver-xorg-input-mouse
+xserver-xorg-input-mtrack
+xserver-xorg-input-mutouch
+xserver-xorg-input-synaptics
 xserver-xorg-video-amdgpu
+xserver-xorg-video-intel
+xserver-xorg-video-vmware
 
 #    = Nvidia supporting bits =
 
@@ -40,7 +46,12 @@ libdrm-amdgpu1
 
 #    = Intel supporting bits =
 
+i965-va-driver
 libdrm-intel1
+libva-drm2
+libva-glx2
+libva-x11-2
+libva2
 
 #    = Mesa supporting bits =
 
