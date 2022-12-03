@@ -16,7 +16,6 @@ exfat-fuse
 exfatprogs
 f2fs-tools
 firmware-b43-installer
-firmware-brcm80211
 firmware-sof-signed
 go-mtpfs
 ifuse
