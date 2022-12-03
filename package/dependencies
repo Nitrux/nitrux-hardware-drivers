@@ -16,7 +16,7 @@ go-mtpfs
 ifuse
 libimobiledevice-utils
 libimobiledevice6
-linux-firmware
+linux-firmware-nitrux
 ntfs-3g
 
 #    = Printers =
