@@ -8,9 +8,6 @@ nitrux-standard-legacy
 
 #    = Hardware and Architecture Support =
 
-broadcom-sta-common
-broadcom-sta-dkms
-broadcom-sta-source
 dkms
 exfat-fuse
 exfatprogs
