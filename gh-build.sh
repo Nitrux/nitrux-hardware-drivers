@@ -15,7 +15,7 @@ git_commit=$(git rev-parse --short HEAD)
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
 	"Conflicts: nitrux-hardware-drivers" \
-	"Recommends: broadcom-sta-common, broadcom-sta-dkms, broadcom-sta-source"
+	"Recommends: broadcom-sta-common, broadcom-sta-dkms, broadcom-sta-source" \
 	"Architecture: amd64" \
 	"Description: Hardware drivers metapackage for Nitrux."
 
