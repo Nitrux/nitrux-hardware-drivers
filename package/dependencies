@@ -28,6 +28,8 @@ unused-net-protocols
 
 #    = Printers =
 
+hplip
+hplip-gui
 openprinting-ppds
 printer-driver-foo2zjs
 printer-driver-foo2zjs-common
