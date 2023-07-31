@@ -14,6 +14,7 @@ exfatprogs
 f2fs-tools
 firmware-b43-installer
 firmware-sof-signed
+fuse-overlayfs
 go-mtpfs
 ifuse
 iio-sensor-proxy
