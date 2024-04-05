@@ -30,27 +30,30 @@ unused-net-protocols
 
 #    = Printers =
 
+gutenprint-locales
+hpijs-ppds
 hplip
 openprinting-ppds
-printer-driver-foo2zjs
-printer-driver-foo2zjs-common
-printer-driver-c2esp
-printer-driver-min12xxw
-printer-driver-sag-gdi
-printer-driver-cups-pdf
-printer-driver-gutenprint
-printer-driver-splix
 printer-driver-brlaser
-printer-driver-ptouch
-printer-driver-pxljr
-gutenprint-locales
 printer-driver-c2050
+printer-driver-c2esp
 printer-driver-cjet
+printer-driver-cups-pdf
 printer-driver-dymo
 printer-driver-escpr
+printer-driver-foo2zjs
+printer-driver-foo2zjs-common
 printer-driver-fujixerox
+printer-driver-gutenprint
+printer-driver-hpcups
+printer-driver-hpijs
 printer-driver-indexbraille
+printer-driver-min12xxw
 printer-driver-oki
+printer-driver-ptouch
+printer-driver-pxljr
+printer-driver-sag-gdi
+printer-driver-splix
 
 #    = XORG Drivers =
 
