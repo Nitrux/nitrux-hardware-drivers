@@ -8,6 +8,9 @@ nitrux-standard-legacy
 
 #    = Hardware and Architecture Support =
 
+acpi-call-dkms
+acpi-support
+acpid
 dkms
 exfat-fuse
 exfatprogs
