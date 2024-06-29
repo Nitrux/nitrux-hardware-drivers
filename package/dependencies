@@ -11,7 +11,9 @@ nitrux-standard-legacy
 acpi-call-dkms
 acpi-support
 acpid
-bluetooth
+bluez
+bluez-meshd
+bluez-obexd
 brightness-udev
 dkms
 driverctl
@@ -35,6 +37,7 @@ xr-hardware
 
 #    = Printers =
 
+bluez-cups
 gutenprint-locales
 hpijs-ppds
 hplip
