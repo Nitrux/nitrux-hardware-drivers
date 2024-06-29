@@ -11,6 +11,7 @@ nitrux-standard-legacy
 acpi-call-dkms
 acpi-support
 acpid
+bluetooth
 brightness-udev
 dkms
 driverctl
