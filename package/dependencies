@@ -21,8 +21,6 @@ fuse-overlayfs
 go-mtpfs
 ifuse
 iio-sensor-proxy
-libimobiledevice-utils
-libimobiledevice6
 mtp-tools
 ntfs-3g
 open-iscsi
@@ -83,22 +81,28 @@ xserver-xorg-video-vmware
 
 amdgpu-firmware-extra
 amdvlk
-libdrm-amdgpu1
-libdrm-radeon1
 
 #    = Intel supporting bits =
 
 i965-va-driver
+
+#    = Mesa supporting bits =
+
+mesa-va-drivers
+mesa-vdpau-drivers
+mesa-vulkan-drivers
+
+#    = Supporting libraries =
+
+libdrm-amdgpu1
 libdrm-intel1
+libdrm-radeon1
+libimobiledevice-utils
+libimobiledevice6
+libmtp-runtime
 libva-drm2
 libva-glx2
 libva-x11-2
 libva2
-
-#    = Mesa supporting bits =
-
 libvdpau-va-gl1
 libvulkan1
-mesa-va-drivers
-mesa-vdpau-drivers
-mesa-vulkan-drivers
