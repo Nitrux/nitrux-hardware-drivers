@@ -23,7 +23,6 @@ ifuse
 iio-sensor-proxy
 libimobiledevice-utils
 libimobiledevice6
-linux-firmware-nitrux
 mtp-tools
 ntfs-3g
 open-iscsi
