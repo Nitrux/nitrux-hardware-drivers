@@ -11,10 +11,13 @@ nitrux-standard-legacy
 acpi-call-dkms
 acpi-support
 acpid
+brightness-udev
 dkms
+driverctl
 exfat-fuse
 exfatprogs
 f2fs-tools
+fido2-tools
 firmware-b43-installer
 firmware-sof-signed
 fuse-overlayfs
@@ -27,6 +30,7 @@ open-iscsi
 steam-devices-nitrux
 thunderbolt-tools
 unused-net-protocols
+xr-hardware
 
 #    = Printers =
 
@@ -106,3 +110,4 @@ libva-x11-2
 libva2
 libvdpau-va-gl1
 libvulkan1
+libyubikey-udev
