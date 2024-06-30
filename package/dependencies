@@ -87,7 +87,7 @@ xserver-xorg-video-vmware
 
 #    = AMD and Radeon supporting bits =
 
-amdgpu-firmware-extra
+firmware-amd-nitrux
 amdvlk
 
 #    = Intel supporting bits =
