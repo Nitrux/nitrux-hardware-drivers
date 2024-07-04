@@ -29,6 +29,7 @@ displaylink-driver
 dkms
 dmsetup
 driverctl
+e2fsprogs
 ethtool
 exfat-fuse
 exfatprogs
