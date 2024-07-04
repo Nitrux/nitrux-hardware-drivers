@@ -79,8 +79,8 @@ pulseaudio-module-bluetooth
 rfkill
 secureboot-db
 steam-devices-nitrux
-system-config-printer-udev
 system-config-printer-common
+system-config-printer-udev
 thunderbolt-tools
 ubuntu-drivers-common
 upower
