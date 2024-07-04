@@ -80,6 +80,7 @@ rfkill
 secureboot-db
 steam-devices-nitrux
 system-config-printer-udev
+system-config-printer-common
 thunderbolt-tools
 ubuntu-drivers-common
 upower
