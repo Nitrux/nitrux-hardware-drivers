@@ -6,83 +6,95 @@
 nitrux-minimal-legacy
 nitrux-standard-legacy
 
-#    = Hardware and Architecture Support =
+#    = Hardware Support =
 
 acpi-call-dkms
 acpi-support
 acpid
+amd64-microcode
+avahi-daemon
 bluez
+bluez-cups
 bluez-meshd
 bluez-obexd
+bpftool
 brightness-udev
+broadcom-sta-dkms
+btrfs-progs
+cabextract
+colord
+cryptsetup
+cryptsetup-initramfs
+displaylink-driver
 dkms
+dmsetup
 driverctl
+ethtool
 exfat-fuse
 exfatprogs
-f2fs-tools
+fdisk
 fido2-tools
+firmware-ath9k-htc
+firmware-atheros
 firmware-b43-installer
+firmware-brcm80211
+firmware-carl9170
+firmware-intel-sound
+firmware-iwlwifi
+firmware-misc-nonfree
+firmware-realtek
+firmware-realtek-rtl8723cs-bt
 firmware-sof-signed
 fuse-overlayfs
+fwupd
+geoclue-2.0
 go-mtpfs
-ifuse
-iio-sensor-proxy
-mtp-tools
-ntfs-3g
-open-iscsi
-steam-devices-nitrux
-thunderbolt-tools
-unused-net-protocols
-xr-hardware
-
-#    = Printers =
-
-bluez-cups
 gutenprint-locales
 hpijs-ppds
 hplip
+hwdata
+hyperv-daemons
+hyperv-daemons-extra
+ideviceinstaller
+ifuse
+iio-sensor-proxy
+intel-microcode
+iucode-tool
+kexec-tools
+laptop-detect
+linux-cpupower
+linux-perf
+lm-sensors
+mtp-tools
+net-tools
+ntfs-3g
+open-iscsi
+open-vm-tools-desktop
 openprinting-ppds
-printer-driver-brlaser
-printer-driver-c2050
-printer-driver-c2esp
-printer-driver-cjet
-printer-driver-cups-pdf
-printer-driver-dymo
-printer-driver-escpr
-printer-driver-foo2zjs
-printer-driver-foo2zjs-common
-printer-driver-fujixerox
-printer-driver-gutenprint
-printer-driver-hpcups
-printer-driver-hpijs
-printer-driver-indexbraille
-printer-driver-min12xxw
-printer-driver-oki
-printer-driver-ptouch
-printer-driver-pxljr
-printer-driver-sag-gdi
-printer-driver-splix
+openrazer-meta
+powercap-utils
+powertop
+pulseaudio-module-bluetooth
+rfkill
+secureboot-db
+steam-devices-nitrux
+system-config-printer-udev
+thunderbolt-tools
+ubuntu-drivers-common
+upower
+usb-modeswitch
+usbip
+wireless-regdb
+wireless-tools
+xr-hardware
+
+#    = Printer Drivers =
+
 
 #    = XORG Drivers =
 
-xserver-xorg-input-aiptek
-xserver-xorg-input-elographics
-xserver-xorg-input-evdev
-xserver-xorg-input-kbd
-xserver-xorg-input-libinput
-xserver-xorg-input-mouse
-xserver-xorg-input-mtrack
-xserver-xorg-input-mutouch
-xserver-xorg-input-synaptics
-xserver-xorg-input-wacom
-xserver-xorg-input-xwiimote
-xserver-xorg-video-amdgpu
-xserver-xorg-video-intel
-xserver-xorg-video-qxl
-xserver-xorg-video-radeon
-xserver-xorg-video-vmware
 
-#    = Nvidia supporting bits =
+#    = NVIDIA supporting bits =
 
 
 #    = AMD and Radeon supporting bits =
@@ -94,7 +106,7 @@ amdvlk
 
 i965-va-driver
 
-#    = Mesa supporting bits =
+#    = MESA supporting bits =
 
 mesa-va-drivers
 mesa-vdpau-drivers
@@ -105,13 +117,17 @@ mesa-vulkan-drivers
 libdrm-amdgpu1
 libdrm-intel1
 libdrm-radeon1
+libfprint-2-2
 libimobiledevice-utils
 libimobiledevice6
 libmtp-runtime
+libpam-fprintd
+libsane-hpaio
 libva-drm2
 libva-glx2
 libva-x11-2
 libva2
 libvdpau-va-gl1
 libvulkan1
+libxvmc1
 libyubikey-udev
