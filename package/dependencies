@@ -39,6 +39,7 @@ firmware-atheros
 firmware-b43-installer
 firmware-brcm80211
 firmware-carl9170
+firmware-intel-graphics
 firmware-intel-sound
 firmware-iwlwifi
 firmware-misc-nonfree
