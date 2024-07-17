@@ -39,10 +39,6 @@ firmware-atheros
 firmware-b43-installer
 firmware-brcm80211
 firmware-carl9170
-firmware-intel-graphics
-firmware-intel-misc
-firmware-intel-sound
-firmware-iwlwifi
 firmware-misc-nonfree
 firmware-realtek
 firmware-realtek-rtl8723cs-bt
@@ -99,6 +95,7 @@ xr-hardware
 
 #    = NVIDIA supporting bits =
 
+firmware-nvidia-nitrux
 
 #    = AMD and Radeon supporting bits =
 
@@ -107,6 +104,10 @@ amdvlk
 
 #    = Intel supporting bits =
 
+firmware-intel-graphics
+firmware-intel-misc
+firmware-intel-sound
+firmware-iwlwifi
 i965-va-driver
 
 #    = MESA supporting bits =
