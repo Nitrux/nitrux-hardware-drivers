@@ -39,7 +39,6 @@ firmware-atheros
 firmware-b43-installer
 firmware-brcm80211
 firmware-carl9170
-firmware-misc-nonfree
 firmware-realtek
 firmware-realtek-rtl8723cs-bt
 firmware-sof-signed
