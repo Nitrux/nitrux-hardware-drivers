@@ -37,6 +37,7 @@ fido2-tools
 firmware-ath9k-htc
 firmware-atheros
 firmware-b43-installer
+firmware-b43legacy-installer
 firmware-brcm80211
 firmware-carl9170
 firmware-mediatek
