@@ -32,6 +32,8 @@ e2fsprogs
 ethtool
 exfat-fuse
 exfatprogs
+facetimehd-dkms
+facetimehd-firmware
 fdisk
 fido2-tools
 firmware-ath9k-htc
