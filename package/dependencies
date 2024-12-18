@@ -6,12 +6,16 @@
 nitrux-minimal-legacy
 nitrux-standard-legacy
 
-#    = Hardware Support =
+#    = CPU microcode =
+
+amd64-microcode
+intel-microcode
+
+#    = Hardware support =
 
 acpi-call-dkms
 acpi-support
 acpid
-amd64-microcode
 avahi-daemon
 bluez
 bluez-cups
@@ -36,16 +40,6 @@ facetimehd-dkms
 facetimehd-firmware
 fdisk
 fido2-tools
-firmware-ath9k-htc
-firmware-atheros
-firmware-b43-installer
-firmware-b43legacy-installer
-firmware-brcm80211
-firmware-carl9170
-firmware-mediatek
-firmware-realtek
-firmware-realtek-rtl8723cs-bt
-firmware-sof-signed
 fuse-overlayfs
 fwupd
 geoclue-2.0
@@ -59,7 +53,6 @@ hyperv-daemons-extra
 ideviceinstaller
 ifuse
 iio-sensor-proxy
-intel-microcode
 iucode-tool
 kexec-tools
 laptop-detect
@@ -90,10 +83,10 @@ wireless-regdb
 wireless-tools
 xr-hardware
 
-#    = Printer Drivers =
+#    = Printer drivers =
 
 
-#    = XORG Drivers =
+#    = XORG drivers =
 
 
 #    = NVIDIA supporting bits =
@@ -111,7 +104,20 @@ firmware-intel-graphics
 firmware-intel-misc
 firmware-intel-sound
 firmware-iwlwifi
+firmware-sof-signed
 i965-va-driver
+
+#    = Other firmware supporting bits =
+
+firmware-ath9k-htc
+firmware-atheros
+firmware-b43-installer
+firmware-b43legacy-installer
+firmware-brcm80211
+firmware-carl9170
+firmware-mediatek
+firmware-realtek
+firmware-realtek-rtl8723cs-bt
 
 #    = MESA supporting bits =
 
