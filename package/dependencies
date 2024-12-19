@@ -100,18 +100,19 @@ amdvlk
 
 #    = Intel supporting bits =
 
+firmware-intel-nitrux
 firmware-sof-signed
 i965-va-driver
 
-#    = Other firmware supporting bits =
+#    = Other hardware supporting bits =
 
+firmware-atheros-nitrux
 firmware-b43-installer
 firmware-b43legacy-installer
-firmware-brcm80211
+firmware-brcm-nitrux
 firmware-carl9170
-firmware-mediatek
-firmware-realtek
-firmware-realtek-rtl8723cs-bt
+firmware-mediatek-nitrux
+firmware-realtek-nitrux
 
 #    = MESA supporting bits =
 
