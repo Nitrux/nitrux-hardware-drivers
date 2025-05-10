@@ -129,7 +129,7 @@ libdrm-intel1
 libdrm-radeon1
 libfprint-2-2
 libimobiledevice-utils
-libimobiledevice6
+libimobiledevice-1.0-6
 libmtp-runtime
 libpam-fprintd
 libsane-hpaio
