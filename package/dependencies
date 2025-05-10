@@ -66,7 +66,8 @@ open-iscsi
 open-vm-tools
 open-vm-tools-desktop
 openprinting-ppds
-openrazer-meta
+openrazer-driver-dkms
+openrazer-daemon
 powercap-utils
 powertop
 pulseaudio-module-bluetooth
