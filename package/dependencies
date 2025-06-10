@@ -84,7 +84,9 @@ wireless-regdb
 wireless-tools
 xr-hardware
 
-#    = Printer drivers =
+#    = Printer support =
+
+cups-daemon
 
 
 #    = XORG drivers =
