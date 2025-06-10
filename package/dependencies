@@ -41,6 +41,7 @@ facetimehd-firmware
 fdisk
 fido2-tools
 fuse-overlayfs
+fuse3
 fwupd
 geoclue-2.0
 go-mtpfs
@@ -65,8 +66,8 @@ open-iscsi
 open-vm-tools
 open-vm-tools-desktop
 openprinting-ppds
-openrazer-driver-dkms
 openrazer-daemon
+openrazer-driver-dkms
 powercap-utils
 powertop
 pulseaudio-module-bluetooth
@@ -119,6 +120,8 @@ firmware-realtek-nitrux
 
 #    = MESA supporting bits =
 
+mesa-utils
+mesa-utils-bin
 mesa-va-drivers
 mesa-vdpau-drivers
 mesa-vulkan-drivers
