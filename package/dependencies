@@ -3,8 +3,8 @@
 
 #    = Nitrux OS CORE =
 
-nitrux-minimal-legacy
-nitrux-standard-legacy
+nitrux-minimal
+nitrux-standard
 
 #    = CPU microcode =
 
@@ -54,7 +54,6 @@ ideviceinstaller
 ifuse
 iio-sensor-proxy
 iucode-tool
-kexec-tools
 laptop-detect
 linux-cpupower
 linux-perf
