@@ -35,7 +35,7 @@ git_commit=$(git rev-parse --short HEAD 2>/dev/null)
 	"Priority: required" \
 	"Homepage: https://nxos.org" \
 	"Package: nitrux-hardware-drivers" \
-	"Version: 1.6.0-$git_commit" \
+	"Version: 1.6.1-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
 	"Recommends: broadcom-sta-common, broadcom-sta-dkms, broadcom-sta-source" \

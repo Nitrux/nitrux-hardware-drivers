@@ -117,6 +117,7 @@ firmware-brcm-nitrux
 firmware-carl9170
 firmware-mediatek-nitrux
 firmware-realtek-nitrux
+nvme-cli
 
 #    = MESA supporting bits =
 
