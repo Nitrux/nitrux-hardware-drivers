@@ -111,7 +111,6 @@ i965-va-driver
 #    = Other hardware supporting bits =
 
 firmware-atheros-nitrux
-firmware-b43-installer
 firmware-b43legacy-installer
 firmware-brcm-nitrux
 firmware-carl9170
