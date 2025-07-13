@@ -28,7 +28,6 @@ cabextract
 colord
 cryptsetup
 cryptsetup-initramfs
-displaylink-driver
 dkms
 dmsetup
 driverctl
