@@ -18,14 +18,11 @@ acpi-support
 acpid
 avahi-daemon
 bluez
-bluez-cups
 bluez-meshd
 bluez-obexd
 brightness-udev
-broadcom-sta-dkms
 btrfs-progs
 cabextract
-colord
 cryptsetup
 cryptsetup-initramfs
 dkms
@@ -35,8 +32,6 @@ e2fsprogs
 ethtool
 exfat-fuse
 exfatprogs
-facetimehd-dkms
-facetimehd-firmware
 fdisk
 fido2-tools
 fuse-overlayfs
@@ -44,12 +39,7 @@ fuse3
 fwupd
 geoclue-2.0
 go-mtpfs
-gutenprint-locales
-hpijs-ppds
-hplip
 hwdata
-hyperv-daemons
-hyperv-daemons-extra
 ideviceinstaller
 ifuse
 iio-sensor-proxy
@@ -62,8 +52,6 @@ mtp-tools
 net-tools
 ntfs-3g
 open-iscsi
-open-vm-tools
-open-vm-tools-desktop
 openprinting-ppds
 openrazer-daemon
 openrazer-driver-dkms
@@ -73,8 +61,6 @@ pulseaudio-module-bluetooth
 rfkill
 secureboot-db
 steam-devices-nitrux
-system-config-printer-common
-system-config-printer-udev
 thunderbolt-tools
 ubuntu-drivers-common
 upower
@@ -110,9 +96,7 @@ i965-va-driver
 #    = Other hardware supporting bits =
 
 firmware-atheros-nitrux
-firmware-b43legacy-installer
 firmware-brcm-nitrux
-firmware-carl9170
 firmware-mediatek-nitrux
 firmware-realtek-nitrux
 nvme-cli
