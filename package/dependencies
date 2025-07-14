@@ -14,9 +14,7 @@ intel-microcode
 #    = Hardware support =
 
 acpi-call-dkms
-acpi-support
 acpid
-avahi-daemon
 bluez
 bluez-meshd
 bluez-obexd
@@ -33,26 +31,22 @@ ethtool
 exfat-fuse
 exfatprogs
 fdisk
-fido2-tools
 fuse-overlayfs
 fuse3
 fwupd
-geoclue-2.0
 go-mtpfs
 hwdata
 ideviceinstaller
 ifuse
 iio-sensor-proxy
 iucode-tool
+iw
 laptop-detect
 linux-cpupower
 linux-perf
 lm-sensors
 mtp-tools
-net-tools
 ntfs-3g
-open-iscsi
-openprinting-ppds
 openrazer-daemon
 openrazer-driver-dkms
 powercap-utils
@@ -62,17 +56,12 @@ rfkill
 secureboot-db
 steam-devices-nitrux
 thunderbolt-tools
-ubuntu-drivers-common
 upower
 usb-modeswitch
-usbip
 wireless-regdb
-wireless-tools
 xr-hardware
 
 #    = Printer support =
-
-cups-daemon
 
 
 #    = XORG drivers =
@@ -114,17 +103,14 @@ mesa-vulkan-drivers
 libdrm-amdgpu1
 libdrm-intel1
 libdrm-radeon1
-libfprint-2-2
 libimobiledevice-utils
 libimobiledevice-1.0-6
 libmtp-runtime
 libpam-fprintd
-libsane-hpaio
 libva-drm2
 libva-glx2
 libva-x11-2
 libva2
 libvdpau-va-gl1
 libvulkan1
-libxvmc1
 libyubikey-udev
