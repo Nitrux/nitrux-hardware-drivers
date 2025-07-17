@@ -8,6 +8,7 @@ intel-microcode
 
 #    = Hardware support =
 
+broadcom-sta-dkms
 cabextract
 dkms
 dmsetup
