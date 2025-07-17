@@ -1,11 +1,6 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
-#    = Nitrux OS CORE =
-
-nitrux-minimal
-nitrux-standard
-
 #    = CPU microcode =
 
 amd64-microcode
@@ -13,59 +8,42 @@ intel-microcode
 
 #    = Hardware support =
 
-acpi-call-dkms
-acpid
-bluez
-bluez-meshd
-bluez-obexd
-brightness-udev
-btrfs-progs
 cabextract
-cryptsetup
-cryptsetup-initramfs
 dkms
 dmsetup
 driverctl
-e2fsprogs
 ethtool
-exfat-fuse
-exfatprogs
 fdisk
-fuse-overlayfs
-fuse3
 fwupd
 go-mtpfs
 hwdata
 ideviceinstaller
-ifuse
 iio-sensor-proxy
 iucode-tool
 iw
 laptop-detect
-linux-cpupower
-linux-perf
 lm-sensors
-mtp-tools
-ntfs-3g
 openrazer-daemon
 openrazer-driver-dkms
-powercap-utils
-powertop
 pulseaudio-module-bluetooth
 rfkill
 secureboot-db
 steam-devices-nitrux
 thunderbolt-tools
-upower
 usb-modeswitch
+usbmuxd
 wireless-regdb
 xr-hardware
 
+#    = Bluetooth support =
+
+bluez
+bluez-meshd
+bluez-obexd
+
 #    = Printer support =
 
-
 #    = XORG drivers =
-
 
 #    = NVIDIA supporting bits =
 
@@ -112,3 +90,34 @@ libva-x11-2
 libva2
 libvdpau-va-gl1
 libvulkan1
+
+#    = Power management =
+
+acpi-call-dkms
+acpid
+brightness-udev
+linux-cpupower
+power-profiles-daemon
+powermgmt-base
+upower
+powercap-utils
+powertop
+
+#    = Filesystem management =
+
+btrfs-progs
+cryptsetup
+cryptsetup-initramfs
+e2fsprogs
+exfat-fuse
+exfatprogs
+f2fs-tools
+fscrypt
+fuse-overlayfs
+fuse3
+ifuse
+mtp-tools
+multipath-tools
+ntfs-3g
+xfsdump
+xfsprogs
