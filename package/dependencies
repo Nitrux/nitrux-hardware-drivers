@@ -8,7 +8,6 @@ intel-microcode
 
 #    = Hardware support =
 
-broadcom-sta-dkms
 cabextract
 dkms
 dmsetup
@@ -35,6 +34,11 @@ usb-modeswitch
 usbmuxd
 wireless-regdb
 xr-hardware
+
+#    = Broadcom wireless support =
+
+broadcom-sta-dkms
+firmware-b43-installer
 
 #    = Bluetooth support =
 
