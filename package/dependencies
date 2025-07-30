@@ -23,12 +23,9 @@ iucode-tool
 iw
 laptop-detect
 lm-sensors
-openrazer-daemon
-openrazer-driver-dkms
 pulseaudio-module-bluetooth
 rfkill
 secureboot-db
-steam-devices-nitrux
 thunderbolt-tools
 usb-modeswitch
 usbmuxd
