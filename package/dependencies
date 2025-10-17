@@ -23,6 +23,7 @@ iucode-tool
 iw
 laptop-detect
 lm-sensors
+nvme-cli
 pulseaudio-module-bluetooth
 rfkill
 secureboot-db
@@ -49,25 +50,34 @@ bluez-obexd
 
 #    = NVIDIA supporting bits =
 
-firmware-nvidia-nitrux
+firmware-nvidia-graphics
+firmware-nvidia-gsp
+firmware-nvidia-tesla-535-gsp
 
 #    = AMD and Radeon supporting bits =
 
-firmware-amd-nitrux
+firmware-amd-graphics
 
 #    = Intel supporting bits =
 
-firmware-intel-nitrux
+firmware-intel-graphics
+firmware-intel-misc
+firmware-intel-sound
+firmware-iwlwifi
 firmware-sof-signed
 i965-va-driver
 
 #    = Other hardware supporting bits =
 
-firmware-atheros-nitrux
-firmware-brcm-nitrux
-firmware-mediatek-nitrux
-firmware-realtek-nitrux
-nvme-cli
+bluez-firmware
+firmware-ath9k-htc
+firmware-atheros
+firmware-brcm80211
+firmware-linux-free
+firmware-linux-nonfree
+firmware-mediatek
+firmware-misc-nonfree 
+firmware-realtek
 
 #    = MESA supporting bits =
 
