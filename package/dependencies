@@ -50,10 +50,6 @@ bluez-obexd
 
 #    = NVIDIA supporting bits =
 
-firmware-nvidia-graphics
-firmware-nvidia-gsp
-firmware-nvidia-tesla-535-gsp
-
 #    = AMD and Radeon supporting bits =
 
 firmware-amd-graphics
