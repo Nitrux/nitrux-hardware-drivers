@@ -74,6 +74,8 @@ firmware-linux-nonfree
 firmware-mediatek
 firmware-misc-nonfree 
 firmware-realtek
+openrazer-daemon
+python3-openrazer
 
 #    = MESA supporting bits =
 
