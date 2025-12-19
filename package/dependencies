@@ -125,6 +125,7 @@ fscrypt
 fuse-overlayfs
 fuse3
 ifuse
+libfuse2t64
 mtp-tools
 multipath-tools
 ntfs-3g
