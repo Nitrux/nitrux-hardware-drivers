@@ -8,7 +8,7 @@ intel-microcode
 
 #    = Hardware support =
 
-cabextract
+alsa-ucm-conf
 dkms
 dmsetup
 driverctl
@@ -65,6 +65,7 @@ i965-va-driver
 
 #    = Other hardware supporting bits =
 
+cabextract
 bluez-firmware
 firmware-ath9k-htc
 firmware-atheros
