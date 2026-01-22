@@ -80,6 +80,7 @@ python3-openrazer
 
 #    = MESA supporting bits =
 
+mesa-libgallium
 mesa-utils
 mesa-utils-bin
 mesa-vulkan-drivers
