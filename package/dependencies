@@ -28,6 +28,7 @@ pulseaudio-module-bluetooth
 rfkill
 secureboot-db
 thunderbolt-tools
+udev-hid-bpf
 usb-modeswitch
 usbmuxd
 wireless-regdb
@@ -121,6 +122,7 @@ e2fsprogs
 exfat-fuse
 exfatprogs
 f2fs-tools
+fatresize
 fscrypt
 fuse-overlayfs
 fuse3
@@ -131,3 +133,4 @@ multipath-tools
 ntfs-3g
 xfsdump
 xfsprogs
+yubikey-luks
