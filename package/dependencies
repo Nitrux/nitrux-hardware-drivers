@@ -80,7 +80,7 @@ firmware-misc-nonfree
 firmware-realtek
 openrazer-daemon
 python3-openrazer
-zenergy
+zenergy-dkms
 
 #    = MESA supporting bits =
 
